@@ -1,0 +1,16 @@
+.carousel img {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.container,
+.container p,
+.container .card-header,
+.container .card {
+    background-color: rgb(26, 29, 41);
+    color: white;
+}
+
+.container .card {
+    border: solid white 1px;
+}
